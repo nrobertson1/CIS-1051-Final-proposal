@@ -1,6 +1,7 @@
 #preposal
 
 #what ideas do you have for your final project?
+
 For my final project, I want to make a Mario inspired game. 
 Some of my ideas I have to create the project:
 - change the shapes and colors used to create a new theme (space, underwater, etc.)
