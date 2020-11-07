@@ -10,8 +10,10 @@ Some of my ideas I have to create the project:
 - add a time limit to collect points
 
 #If you plan to collaborate with classmates, what are their names?
+
 I plan to do my final project on my own.
 
 #Do you have any questions of your own?
+
 Nope
 
